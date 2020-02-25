@@ -73,7 +73,12 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ### Preview
 
-![alt text](https://africahacks-assets.s3.amazonaws.com/approval-badge/light_blue.svg "AfricaHacks approved Hackathon")
+<img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/deep_blue.svg"
+    alt="AfricaHacks approved Hackathon"
+    style="width:100%"
+    id="africahacks-approval-badge"
+/>
 
 ### Code Sample
 
@@ -94,7 +99,12 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ### Preview
 
-![alt text](https://africahacks-assets.s3.amazonaws.com/approval-badge/red.svg "AfricaHacks approved Hackathon")
+<img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/light_blue.svg"
+    alt="AfricaHacks approved Hackathon"
+    style="width:100%"
+    id="africahacks-approval-badge"
+/>
 
 ### Code Sample
 
