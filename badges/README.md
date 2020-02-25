@@ -31,7 +31,12 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ### Preview
 
-![alt text](https://africahacks-assets.s3.amazonaws.com/approval-badge/black.svg "AfricaHacks approved Hackathon")
+<img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/full_colours.svg"
+    alt="AfricaHacks approved Hackathon"
+    width="200px"
+    id="africahacks-approval-badge"
+/>
 
 ### Code Sample
 
@@ -52,7 +57,12 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ### Preview
 
-![alt text](https://africahacks-assets.s3.amazonaws.com/approval-badge/deep_blue.svg "AfricaHacks approved Hackathon")
+<img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/black.svg"
+    alt="AfricaHacks approved Hackathon"
+    width="200px"
+    id="africahacks-approval-badge"
+/>
 
 ### Code Sample
 
@@ -76,7 +86,7 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/deep_blue.svg"
     alt="AfricaHacks approved Hackathon"
-    style="width:100%"
+    width="200px"
     id="africahacks-approval-badge"
 />
 
@@ -102,7 +112,7 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/light_blue.svg"
     alt="AfricaHacks approved Hackathon"
-    style="width:100%"
+    width="200px"
     id="africahacks-approval-badge"
 />
 
