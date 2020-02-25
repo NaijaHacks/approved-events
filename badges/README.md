@@ -1,4 +1,4 @@
-# AfricaHacks Approved Badges
+# AfricaHacks Approval Badges
 
 The AfricaHacks badge shows a Hackathons commitment to providing opportunities to Young Africans so they can create tech companies or get great jobs.
 
@@ -6,11 +6,16 @@ Only AfricaHacks approved events are allowed to use this badge. Please, request 
 
 Please, copy the code below and embed before the `</body>` tag of your event page.
 
+See badge preview at https://naijahacks.com.
+
 ## Full color
 
-### Preview
-
-![alt text](https://africahacks-assets.s3.amazonaws.com/approval-badge/full_colours.svg "AfricaHacks approved Hackathon")
+<img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/full_colours.svg"
+    alt="AfricaHacks approved Hackathon"
+    width="200px"
+    id="africahacks-approval-badge"
+/>
 
 ### Code Sample
 
@@ -29,10 +34,8 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ## Black
 
-### Preview
-
 <img
-    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/full_colours.svg"
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/black.svg"
     alt="AfricaHacks approved Hackathon"
     width="200px"
     id="africahacks-approval-badge"
@@ -55,10 +58,8 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ## Deep Blue
 
-### Preview
-
 <img
-    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/black.svg"
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/deep_blue.svg"
     alt="AfricaHacks approved Hackathon"
     width="200px"
     id="africahacks-approval-badge"
@@ -81,10 +82,8 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ## Light Blue
 
-### Preview
-
 <img
-    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/deep_blue.svg"
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/light_blue.svg"
     alt="AfricaHacks approved Hackathon"
     width="200px"
     id="africahacks-approval-badge"
@@ -107,10 +106,8 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ## Red
 
-### Preview
-
 <img
-    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/light_blue.svg"
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/red.svg"
     alt="AfricaHacks approved Hackathon"
     width="200px"
     id="africahacks-approval-badge"
@@ -133,9 +130,12 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ## White
 
-### Preview
-
-![alt text](https://africahacks-assets.s3.amazonaws.com/approval-badge/white.svg "AfricaHacks approved Hackathon")
+<img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/white.svg"
+    alt="AfricaHacks approved Hackathon"
+    width="200px"
+    id="africahacks-approval-badge"
+/>
 
 ### Code Sample
 
@@ -154,9 +154,12 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 ## Yellow
 
-### Preview
-
-![alt text](https://africahacks-assets.s3.amazonaws.com/approval-badge/yellow.svg "AfricaHacks approved Hackathon")
+<img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/yellow.svg"
+    alt="AfricaHacks approved Hackathon"
+    width="200px"
+    id="africahacks-approval-badge"
+/>
 
 ### Code Sample
 
