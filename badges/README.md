@@ -1,6 +1,6 @@
 # AfricaHacks Approval Badges
 
-The AfricaHacks badge shows a Hackathons commitment to providing opportunities to Young Africans so they can create tech companies or get great jobs.
+The AfricaHacks badge shows a Hackathon's commitment to providing opportunities to Young Africans so they can create tech companies or get great jobs.
 
 Only AfricaHacks approved events are allowed to use this badge. Please, request approval to be an AfricaHacks member event by emailing team@africahacks.com.
 
