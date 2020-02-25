@@ -21,7 +21,7 @@ See badge preview at https://naijahacks.com.
 
 ```html
 <a
-  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;top:-5px;width:10%;z-index:10000"
+  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
   href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
   target="_blank"
   ><img
@@ -45,7 +45,7 @@ See badge preview at https://naijahacks.com.
 
 ```html
 <a
-  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;top:-5px;width:10%;z-index:10000"
+  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
   href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
   target="_blank"
   ><img
@@ -69,7 +69,7 @@ See badge preview at https://naijahacks.com.
 
 ```html
 <a
-  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;top:-5px;width:10%;z-index:10000"
+  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
   href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
   target="_blank"
   ><img
@@ -93,7 +93,7 @@ See badge preview at https://naijahacks.com.
 
 ```html
 <a
-  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;top:-5px;width:10%;z-index:10000"
+  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
   href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
   target="_blank"
   ><img
@@ -117,7 +117,7 @@ See badge preview at https://naijahacks.com.
 
 ```html
 <a
-  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;top:-5px;width:10%;z-index:10000"
+  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
   href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
   target="_blank"
   ><img
@@ -141,7 +141,7 @@ See badge preview at https://naijahacks.com.
 
 ```html
 <a
-  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;top:-5px;width:10%;z-index:10000"
+  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
   href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
   target="_blank"
   ><img
@@ -165,7 +165,7 @@ See badge preview at https://naijahacks.com.
 
 ```html
 <a
-  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;top:-5px;width:10%;z-index:10000"
+  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
   href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
   target="_blank"
   ><img
