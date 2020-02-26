@@ -8,6 +8,28 @@ Please, copy the code below and embed before the `</body>` tag of your event pag
 
 See badge preview at https://naijahacks.com.
 
+## Red
+
+<img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/red.svg"
+    alt="AfricaHacks approved Hackathon"
+    width="200px"
+    id="africahacks-approval-badge"
+/>
+
+```html
+<a
+  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
+  href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
+  target="_blank"
+  ><img
+    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/red.svg"
+    alt="AfricaHacks approved Hackathon"
+    style="width:100%"
+    id="africahacks-approval-badge"
+/></a>
+```
+
 ## Full color
 
 <img
@@ -16,8 +38,6 @@ See badge preview at https://naijahacks.com.
     width="200px"
     id="africahacks-approval-badge"
 />
-
-### Code Sample
 
 ```html
 <a
@@ -41,8 +61,6 @@ See badge preview at https://naijahacks.com.
     id="africahacks-approval-badge"
 />
 
-### Code Sample
-
 ```html
 <a
   style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
@@ -64,8 +82,6 @@ See badge preview at https://naijahacks.com.
     width="200px"
     id="africahacks-approval-badge"
 />
-
-### Code Sample
 
 ```html
 <a
@@ -89,8 +105,6 @@ See badge preview at https://naijahacks.com.
     id="africahacks-approval-badge"
 />
 
-### Code Sample
-
 ```html
 <a
   style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
@@ -98,30 +112,6 @@ See badge preview at https://naijahacks.com.
   target="_blank"
   ><img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/light_blue.svg"
-    alt="AfricaHacks approved Hackathon"
-    style="width:100%"
-    id="africahacks-approval-badge"
-/></a>
-```
-
-## Red
-
-<img
-    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/red.svg"
-    alt="AfricaHacks approved Hackathon"
-    width="200px"
-    id="africahacks-approval-badge"
-/>
-
-### Code Sample
-
-```html
-<a
-  style="display:block;max-width:200px;min-width:60px;position:fixed;right:0px;width:10%;z-index:10000"
-  href="https://africahacks.com/?utm_medium=ApprovalBadge&utm_source=approved-hackathon"
-  target="_blank"
-  ><img
-    src="https://africahacks-assets.s3.amazonaws.com/approval-badge/red.svg"
     alt="AfricaHacks approved Hackathon"
     style="width:100%"
     id="africahacks-approval-badge"
@@ -136,8 +126,6 @@ See badge preview at https://naijahacks.com.
     width="200px"
     id="africahacks-approval-badge"
 />
-
-### Code Sample
 
 ```html
 <a
@@ -160,8 +148,6 @@ See badge preview at https://naijahacks.com.
     width="200px"
     id="africahacks-approval-badge"
 />
-
-### Code Sample
 
 ```html
 <a
