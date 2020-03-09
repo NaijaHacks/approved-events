@@ -12,9 +12,9 @@ See badge preview at https://naijahacks.com.
 
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/red.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     width="200px"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 />
 
 ```html
@@ -24,9 +24,9 @@ See badge preview at https://naijahacks.com.
   target="_blank"
   ><img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/red.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     style="width:100%"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 /></a>
 ```
 
@@ -34,9 +34,9 @@ See badge preview at https://naijahacks.com.
 
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/full_colours.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     width="200px"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 />
 
 ```html
@@ -46,9 +46,9 @@ See badge preview at https://naijahacks.com.
   target="_blank"
   ><img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/full_colours.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     style="width:100%"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 /></a>
 ```
 
@@ -56,9 +56,9 @@ See badge preview at https://naijahacks.com.
 
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/black.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     width="200px"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 />
 
 ```html
@@ -68,9 +68,9 @@ See badge preview at https://naijahacks.com.
   target="_blank"
   ><img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/black.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     style="width:100%"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 /></a>
 ```
 
@@ -78,9 +78,9 @@ See badge preview at https://naijahacks.com.
 
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/deep_blue.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     width="200px"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 />
 
 ```html
@@ -90,9 +90,9 @@ See badge preview at https://naijahacks.com.
   target="_blank"
   ><img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/deep_blue.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     style="width:100%"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 /></a>
 ```
 
@@ -100,9 +100,9 @@ See badge preview at https://naijahacks.com.
 
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/light_blue.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     width="200px"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 />
 
 ```html
@@ -112,9 +112,9 @@ See badge preview at https://naijahacks.com.
   target="_blank"
   ><img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/light_blue.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     style="width:100%"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 /></a>
 ```
 
@@ -122,9 +122,9 @@ See badge preview at https://naijahacks.com.
 
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/white.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     width="200px"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 />
 
 ```html
@@ -134,9 +134,9 @@ See badge preview at https://naijahacks.com.
   target="_blank"
   ><img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/white.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     style="width:100%"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 /></a>
 ```
 
@@ -144,9 +144,9 @@ See badge preview at https://naijahacks.com.
 
 <img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/yellow.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     width="200px"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 />
 
 ```html
@@ -156,8 +156,8 @@ See badge preview at https://naijahacks.com.
   target="_blank"
   ><img
     src="https://africahacks-assets.s3.amazonaws.com/approval-badge/yellow.svg"
-    alt="AfricaHacks approved Hackathon"
+    alt="Approved African Hackathon. AfricaHacks Member Event"
     style="width:100%"
-    id="africahacks-approval-badge"
+    id="african-hackathon-africahacks-member-badge"
 /></a>
 ```
